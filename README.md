@@ -1,6 +1,6 @@
 # terraform-ec2
 
-Create a VM Amazon Linux as a Base Box with VirtualBox
+Simple Infrastructure Codes to Build EC2 and Essential Resources
 
 ## Installation
 
