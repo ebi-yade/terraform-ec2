@@ -1,4 +1,4 @@
-# vagrant-amazonlinux
+# terraform-ec2
 
 Create a VM Amazon Linux as a Base Box with VirtualBox
 
